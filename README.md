@@ -5,7 +5,6 @@ Descripción
 La herramienta permite registrar órdenes de producción, días requeridos, fecha de inicio y fecha de término, y genera automáticamente un calendario visual tipo diagrama de Gantt que muestra los días laborales marcados para cada tarea.
 
 Cuenta con funciones para:
-
 Agregar nuevas tablas de órdenes con un separador visual.
 
 Pintar en el calendario los días laborales correspondientes a cada orden, considerando fines de semana.
